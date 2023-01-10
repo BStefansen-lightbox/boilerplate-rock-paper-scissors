@@ -8,3 +8,4 @@ def player(prev_play, opponent_history=[]):
         guess = opponent_history[-2]
 
     return guess
+
